@@ -19,5 +19,6 @@
 	<natures>
 		<nature>com.crank.gdt.core.storyboard</nature>
 		<nature>org.eclipse.koneki.ldt.nature</nature>
+		<nature>org.eclipse.ldt.nature</nature>
 	</natures>
 </projectDescription>
