@@ -1,2 +1,2 @@
-*.gde 	-text -diff -merge
-*.png 	-text -diff -merge
+*.gde 	-text -diff merge=ours
+*.png 	-text -diff merge=ours
